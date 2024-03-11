@@ -1,0 +1,12 @@
+        MK BANKING SYSTEM - COMPANY ACCOUNTS
+            2022/2023   edition ....
+===================================================
+NAME       | BRANCH    |  AMOUNT   | TELEPHONE 
+
+L.Vuitton   srodmiescie  5 900 000    5598784     
+Adiddas     arkadia      8 000 000    7784894     
+H & M       wola         2 000 000    4987199      
+Bershka     centrum      4 500 000    4489778      
+Puma     Mokotow  4 120 000  445098
+mabo      wola     50 000     893477
+Jordans      Mokotow     $5 000 000     983472
