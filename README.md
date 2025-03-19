@@ -1,6 +1,3 @@
-# java-bank
-banking accounts system project in java
-
 # Java Bank
 
 **A simple banking account management system implemented in Java.**
